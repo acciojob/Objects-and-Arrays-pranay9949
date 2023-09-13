@@ -5,9 +5,10 @@ const person = {
   age: 80,
 };
 person.name="Accio Job";
-players[1]="Pranay";
+
 let team=players;
-let team1=[p1,p2,p3,p4]=players;
+team[1]="Pranay";
+let team1=[p1,p2,p3,p4]=team;
 
 let cap1={name,age}=person;
 
